@@ -9,7 +9,7 @@
         },
         {
             "path": "cc-afk/cmdline.lua",
-            "url": "https://raw.githubusercontent.com/Al-Andrew/cc-spawner_control/refs/heads/main/cc-afk/cmdline.lua"
+            "url": "https://raw.githubusercontent.com/Al-Andrew/cc-afk/refs/heads/main/cmdline.lua"
         }
     ]
 }
