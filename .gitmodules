@@ -1,0 +1,6 @@
+[submodule "cc-afk"]
+	path = cc-afk
+	url = https://github.com/Al-Andrew/cc-afk
+[submodule "ccpack"]
+	path = ccpack
+	url = https://github.com/Al-Andrew/ccpack

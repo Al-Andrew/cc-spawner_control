@@ -1,0 +1,15 @@
+{
+    "name": "spawner_control",
+    "version": "0.0.1",
+    "url": "https://github.com/Al-Andrew",
+    "files": [
+        {
+            "path": "spawner_control.lua",
+            "url": "https://raw.githubusercontent.com/Al-Andrew/spawner_control/refs/heads/main/spawner_control.lua"
+        },
+        {
+            "path": "cc-afk/cmdline.lua",
+            "url": "https://raw.githubusercontent.com/Al-Andrew/cc-afk/refs/heads/main/cc-afk/cmdline.lua"
+        }
+    ]
+}
